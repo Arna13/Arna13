@@ -1,11 +1,11 @@
 ### Arna13's GitHub
 <hr>
 
-IT student
+Linux sysadmin, datacenter technician for DELL EMC.
 
-Interested in system administration and reverse engineering.
+Currently learning reverse engineering and low level programming.
 
 Feel free to check my repos and contribute!
 <br><br>
 
-You can contact me at [arna13@arna13.net](mailto:arna13@arna13.net) (if my mailserver is online...)
+You can contact me at [arna13@arna13.net](mailto:arna13@arna13.net)
