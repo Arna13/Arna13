@@ -1,7 +1,7 @@
 ### Arna13's GitHub
 <hr>
 
-Linux sysadmin, datacenter technician for DELL EMC.
+Linux sysadmin, datacenter technician for DELL EMC, Broadcom VMWare partner.
 
 Currently learning reverse engineering and low level programming.
 
